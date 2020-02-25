@@ -14,4 +14,4 @@
  sudo add-apt-repository ppa:ricotz/docky
  apt install --reinstall plank
  killall plank
-plank --preferences
+
