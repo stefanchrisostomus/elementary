@@ -58,24 +58,79 @@ sudo sed -i 's/ZSH_THEME=\"robbyrussell\"/ZSH_THEME=\"random\"/g' ~/.zshrc
 # Installing apps
 
 # Agenda
-sudo apt install com.github.dahenson.agenda
+sudo apt install -y com.github.dahenson.agenda
 
-# Cipped
-sudo apt install com.github.davidmhewitt.clipped
+# Clipped
+sudo apt install -y com.github.davidmhewitt.clipped
 
 # Cyrfif
-sudo apt install com.github.aimproxy.cyfrif
+sudo apt install -y com.github.aimproxy.cyfrif
 
 # Desktop folder
-sudo apt install com.github.spheras.desktopfolder
+sudo apt install -y com.github.spheras.desktopfolder
 
 # Eddy 
-sudo apt installl com.github.donadigo.eddy.desktop
+sudo apt install -y com.github.donadigo.eddy.desktop
 
 # Fondo
-sudo apt install com.github.calo001.fondo
+sudo apt install -y com.github.calo001.fondo
 
 # Notes Up
-sudo apt install com.github.philip-scott.notes-up
+sudo apt install -y com.github.philip-scott.notes-up
 
+# Aesop pdf reader
+sudo apt install -y com.github.lainsce.aesop
 
+# Appeditor
+sudo apt install -y com.github.donadigo.appeditor
+
+# Comgen
+sudo apt install -y com.github.jeremyvaartjes.comgen
+
+# Formatter
+sudo apt install -y com.github.djaler.formatter
+
+# Gitignore
+sudo apt install -y com.github.arshubham.gitignore
+
+# Melody
+sudo apt install -y com.github.artemanufrij.playmymusic
+
+# Memories
+sudo apt install -y com.github.artemanufrij.showmypictures.desktop
+
+# Monitor
+sudo apt install -y com.github.stsdc.monitor 
+
+# NoteJot
+sudo apt install -y com.github.lainsce.notejot
+
+# Planner
+sudo apt install -y com.github.alainm23.planner
+
+# quickDocs
+sudo apt install -y com.github.mdh34.quickdocs
+
+# Reminduck
+sudo apt install -y com.github.matfantinel.reminduck
+
+# Tardis
+sudo apt install -y com.github.chasinglogic.tardis
+
+# Tasks
+sudo apt install -y com.github.juarezfranco.tarefas-desktop
+
+# Torrential
+sudo apt install -y com.github.davidmhewitt.torrential
+
+# Vocal
+sudo apt install -y com.github.needle-and-thread.vocal
+
+# Yishu
+sudo apt install -y com.github.lainsce.yishu
+
+# develop
+# sudo apt install -y com.github.alcadica.develop
+
+# Ghistory
+# sudo apt install -y com.github.padjis.ghistory
