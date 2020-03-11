@@ -147,6 +147,9 @@ sudo apt install -y inkscape
 # xfce4 Dictionary
 sudo apt install -y xfce4-dict
 
+# vlc
+sudo apt install -y vlc
+
 
 
 # develop
