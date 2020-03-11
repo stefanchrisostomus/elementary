@@ -126,8 +126,28 @@ sudo apt install -y com.github.davidmhewitt.torrential
 # Vocal
 sudo apt install -y com.github.needle-and-thread.vocal
 
+# Optimizer
+sudo apt install -y com.github.hannesschulze.optimizer
+
+# Regex Tester
+sudo apt install -y com.github.artemanufrij.regextester
+
+# develop
+sudo apt install -y com.github.alcadica.develop
+
 # Yishu
 sudo apt install -y com.github.lainsce.yishu
+
+# devhelp
+sudo apt install -y devhelp
+
+# Inkscape
+sudo apt install -y inkscape
+
+# xfce4 Dictionary
+sudo apt install -y xfce4-dict
+
+
 
 # develop
 # sudo apt install -y com.github.alcadica.develop
