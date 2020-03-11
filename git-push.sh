@@ -1,5 +1,5 @@
 #!/bin/bash
-
+set -e
 ###############################################################################
 # Author: Stefan Chrisostomus                                                 #
 # Date: 7-1-2020                                                              #
@@ -10,7 +10,6 @@
 # Examine before running this script. Run at your own risk.                   #
 #                                                                             #
 ###############################################################################
-
 
 # checking if kernel files are present otherswise github will become too big
 

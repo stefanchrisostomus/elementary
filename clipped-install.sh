@@ -10,6 +10,7 @@ set -e
 # Examine before running this script. Run at your own risk.                   #
 #                                                                             #
 ###############################################################################
+
 sudo rm -rf clipped
 
 echo "#########################################"
