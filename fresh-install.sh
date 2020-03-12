@@ -15,14 +15,14 @@ set -ex
 sudo apt update && sudo apt-get dist-upgrade
 
 # Properties Commons (to install elementary tweaks)
-sudo apt install software-properties-common
+sudo apt install -y software-properties-common
 # Elementary Tweak
 ## 1. adding repository
 sudo add-apt-repository ppa:philip.scott/elementary-tweaks
 ## 2. updating apt-get
 sudo apt update
 ## 3. installing tweaks
-sudo apt install elementary-tweaks
+sudo apt install -y elementary-tweaks
 
 # firefox
 sudo apt-get install -y firefox
@@ -33,13 +33,13 @@ sudo add-apt-repository ppa:linrunner/tlp
 ## 2. updating apt-get
 sudo apt-get update
 ## 3. installing package
-sudo apt-get install tlp tlp-rdw
+sudo apt-get install -y tlp tlp-rdw
 
 # Meld
-sudo apt install meld
+sudo apt install -y meld
 
 # vlc
-sudo apt installl vlc
+sudo apt installl -y vlc
 
 # Git
 sudo apt install -y git
