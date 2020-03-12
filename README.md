@@ -1,6 +1,6 @@
 # Elementary OS Post Install Script
 
-<image 1>
+![Screenshot](screenshot.png)
 
 ### Add ppa support
 ```
