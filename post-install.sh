@@ -38,7 +38,7 @@ echo "Installing apps..."
   sudo apt install -y devhelp
   sudo apt install -y inkscape
   sudo apt install -y xfce4-dict
-  sudo apt install -y vlc
+ 
 
 echo "Installing elementary apps..."
 
@@ -69,7 +69,6 @@ echo "Installing elementary apps..."
   sudo apt install -y com.github.artemanufrij.regextester
   sudo apt install -y com.github.alcadica.develop
   sudo apt install -y com.github.lainsce.yishu
-  sudo apt install -y com.github.alcadica.develop
   sudo apt install -y com.github.padjis.ghistory
   
 echo "Cleaning up..."
