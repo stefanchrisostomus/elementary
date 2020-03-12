@@ -1,5 +1,5 @@
 #!/bin/bash
-set -e
+set -ex
 ###############################################################################
 # This script is to be used on 64 bit computers                               #
 # Author: Stefanski1977                                                       #

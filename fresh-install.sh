@@ -1,5 +1,5 @@
 #!/bin/bash
-set -e
+set -ex
 ###############################################################################
 # This script is to be used on 64 bit computers                               #
 # Author: Stefanski1977                                                       #
@@ -25,7 +25,7 @@ sudo apt update
 sudo apt install elementary-tweaks
 
 # firefox
-sudo apt-get install firefox
+sudo apt-get install -y firefox
 
 # Reduce overheating and improve battery life
 ## 1. adding repository
