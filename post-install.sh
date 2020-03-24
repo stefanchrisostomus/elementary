@@ -1,5 +1,4 @@
 #!/bin/bash
-set -e
 ###############################################################################
 # This script is to be used on 64 bit computers                               #
 # Author: Stefanski1977                                                       #
@@ -32,9 +31,9 @@ echo "Adding repos..."
 echo "Installing apps..."
 
   sudo apt install -y elementary-tweaks
-  sudo apt-get install -y tlp tlp-rdw
+  sudo apt install -y tlp tlp-rdw
   sudo apt install -y meld
-  sudo apt installl -y vlc
+  sudo apt install -y vlc
   sudo apt install -y devhelp
   sudo apt install -y inkscape
   sudo apt install -y xfce4-dict
