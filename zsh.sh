@@ -12,7 +12,7 @@ set -e
 ###############################################################################
 
 # Install zsh
-# sudo apt-get install zsh git wget -y
+sudo apt-get install zsh git wget -y
 wget https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O - | sh
 
 # Install classyTouch theme
